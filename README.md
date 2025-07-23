@@ -45,3 +45,43 @@ FORECAST.LINEAR – Linear trend forecasting
 FORECAST.ETS – Seasonal forecasting
 
 FORECAST.ETS.CONFINT – Confidence interval analysis (95%)
+
+Project - 3
+📈 Stock Price Analysis Project using Python and Jupyter Notebook
+
+This project demonstrates how to perform a simple stock price analysis using Python. It involves reading sample stock data, calculating key financial indicators, and visualizing them using Python libraries like Matplotlib and Seaborn.
+📊 Preview
+<img width="949" height="505" alt="image" src="https://github.com/user-attachments/assets/88666fe5-d62b-4332-b343-9dc133acc614" />
+
+🔧 Tools & Libraries Used
+
+Python (Jupyter Notebook)
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Excel (for data input)
+
+
+📊 Project Features
+
+Load historical stock data from an Excel file
+
+Calculate:
+
+Daily returns
+
+20-day and 50-day moving averages
+
+
+Visualize:
+
+Closing price trends with moving averages
+
+Daily return trends
+
+Volume analysis
+

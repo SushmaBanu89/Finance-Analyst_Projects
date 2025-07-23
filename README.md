@@ -1,8 +1,8 @@
 🛠️ Tools Used
 
-🐍 Python – Data preprocessing & exploratory analysis
+🐍 Python – Stock Predictions, Data preprocessing, & exploratory data analysis
 📊 Power BI – Dashboard creation, visualization & DAX
-📈 Advanced Excel – Pivot tables, formulas, and initial data cleaning
+📈 Advanced Excel – Financial Modeling, Forecasting, formulas, and initial data cleaning
 
 # Finance-Analyst_Projects
 📊 Finance Projects in Excel | Financial Analysis, Forecasting &amp; Budgeting,A collection of finance projects using Excel for financial analysis, forecasting, and budgeting. Includes practical models, dashboards, and data-driven insights for business decision-making.

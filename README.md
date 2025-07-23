@@ -84,4 +84,44 @@ Closing price trends with moving averages
 Daily return trends
 
 Volume analysis
+Project - 4
+📊 Power BI Sales Performance Dashboard (2013–2014)
+Description
+This interactive Power BI dashboard visualizes global sales data across the years 2013 and 2014. It provides clear insights into company performance by segment, country, and over time.
 
+Preview
+<img width="952" height="539" alt="image" src="https://github.com/user-attachments/assets/d24317bb-d405-4946-b7ad-aa8b7645f5a0" />
+
+🛠️ Tools Used
+
+Power BI Desktop
+
+Data Modeling
+
+DAX Measures
+
+Power Query
+
+📈 Key Features & Charts
+
+Line Chart: Tracks profit trends over time (monthly view)
+
+Funnel Chart: Shows profit distribution by country
+
+Clustered Column Chart: Compares sales by customer segments
+
+Filters & Slicers:
+
+Time Periods: Month and Year (2013–2014)
+
+Country, Segment, Product (for interactive analysis)
+
+📌 Skills Highlighted
+
+Data Cleaning & Transformation
+
+Creating Relationships in Data Model
+
+KPI Metrics Visualization
+
+Interactive Report Design

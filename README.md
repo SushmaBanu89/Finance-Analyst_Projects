@@ -1,6 +1,6 @@
 🛠️ Tools Used
 
-🐍 Python – Stock Predictions, Data preprocessing, & exploratory data analysis
+🐍 Python –  exploratory data analysis, Stock Predictions & Data preprocessing.
 
 📊 Power BI – Dashboard creation, visualization & DAX
 

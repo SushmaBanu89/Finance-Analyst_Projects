@@ -1,7 +1,9 @@
 🛠️ Tools Used
 
 🐍 Python – Stock Predictions, Data preprocessing, & exploratory data analysis
+
 📊 Power BI – Dashboard creation, visualization & DAX
+
 📈 Advanced Excel – Financial Modeling, Forecasting, formulas, and initial data cleaning
 
 # Finance-Analyst_Projects
@@ -11,6 +13,7 @@ PROJECT -1
 Financial Modeling
 <img width="955" height="539" alt="image" src="https://github.com/user-attachments/assets/2589862c-2bb3-4ee0-ba62-9902aedc6792" />
 📊 E-Commerce Financial Modeling with Scenario Analysis (2023–2027)
+
 This project involved building a comprehensive financial model for an e-commerce company (XYZ Pvt. Ltd.) to forecast performance from 2023 to 2027. The focus was on analyzing key financial metrics and preparing dynamic reports using Excel for scenario-based decision-making.
 
 ✅ Key Tasks Performed:
@@ -29,6 +32,7 @@ PROJECT -2
 Forecasting 
 <img width="944" height="528" alt="image" src="https://github.com/user-attachments/assets/3f1adc98-1ffa-4e16-addb-00313a85903e" />
 📈 Hotel & Resort Forecasting Project (2021–2024)
+
 This Excel-based project focuses on forecasting key performance metrics in the hospitality industry (Hotel & Resort sector) for the years 2021 to 2024. The goal was to enhance decision-making in areas like cost-saving, productivity, and customer satisfaction using built-in Excel forecasting functions.
 
 🧠 Skills Applied
@@ -66,6 +70,7 @@ Volume analysis
 
 Project - 4
 📊 Power BI Sales Performance Dashboard (2013–2014)
+
 Description
 This interactive Power BI dashboard visualizes global sales data across the years 2013 and 2014. It provides clear insights into company performance by segment, country, and over time.
 Preview

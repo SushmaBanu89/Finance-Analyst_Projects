@@ -18,6 +18,7 @@ Calculated Corporate Tax, Total COGS, Gross Profit, Operating Profit, and Profit
 Analyzed Gross Profit Margin and Operating Profit Margin
 Estimated Total Operating Expenses
 Created detailed income statements for multiple years
+
 🛠️ Skills Applied:
 Revenue Assumptions and Cost Structuring (Fixed & Variable)
 Forecasting using Dynamic Excel Models
@@ -34,6 +35,7 @@ This Excel-based project focuses on forecasting key performance metrics in the h
 Business Forecasting Techniques
 Data-driven Decision Making
 Time Series Analysis
+
 🔧 Excel Functions used
 FORECAST.ETS – Seasonal forecasting
 FORECAST.ETS.CONFINT – Confidence interval analysis (95%)
@@ -44,6 +46,7 @@ Project - 3
 This project demonstrates how to perform a simple stock price analysis using Python. It involves reading sample stock data, calculating key financial indicators, and visualizing them using Python libraries like Matplotlib and Seaborn.
 📊 Preview
 <img width="949" height="505" alt="image" src="https://github.com/user-attachments/assets/88666fe5-d62b-4332-b343-9dc133acc614" />
+
 🔧 Tools & Libraries Used
 Python (Jupyter Notebook)
 Pandas
@@ -67,11 +70,13 @@ Description
 This interactive Power BI dashboard visualizes global sales data across the years 2013 and 2014. It provides clear insights into company performance by segment, country, and over time.
 Preview
 <img width="952" height="539" alt="image" src="https://github.com/user-attachments/assets/d24317bb-d405-4946-b7ad-aa8b7645f5a0" />
+
 🛠️ Tools Used
 Power BI Desktop
 Data Modeling
 DAX Measures
 Power Query
+
 📈 Key Features & Charts
 Line Chart: Tracks profit trends over time (monthly view)
 Funnel Chart: Shows profit distribution by country
@@ -79,6 +84,7 @@ Clustered Column Chart: Compares sales by customer segments
 Filters & Slicers:
 Time Periods: Month and Year (2013–2014)
 Country, Segment, Product (for interactive analysis)
+
 📌 Skills Highlighted
 Data Cleaning & Transformation
 Creating Relationships in Data Model
